@@ -11,5 +11,5 @@ var.iable <- "Hello"
 - bool TRUE/FALSE
 - numeric 4/4.2
 - character "'s geht?"
-## Indexierung
+## Indizierung
 Die Indizes starten in R mit 1, nicht mit 0 wie in einer anständigen Programmiersprache!
